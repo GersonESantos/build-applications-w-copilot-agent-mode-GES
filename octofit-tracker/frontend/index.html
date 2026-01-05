@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Octofit Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Octofit Tracker</h1>
+    </header>
+    <main>
+        <section id="activity-list">
+            <h2>Activities</h2>
+            <ul id="activities"></ul>
+        </section>
+        <section id="add-activity">
+            <h2>Add Activity</h2>
+            <form id="activity-form">
+                <label for="name">Activity Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="duration">Duration (minutes):</label>
+                <input type="number" id="duration" name="duration" required>
+
+                <button type="submit">Add Activity</button>
+            </form>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
