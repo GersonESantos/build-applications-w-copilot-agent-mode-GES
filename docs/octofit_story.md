@@ -89,10 +89,9 @@ In this workshop, you'll:
 We'll be using a modern web application stack:
 
 - **Frontend**: React.js
-- **Backend**: Python with Django REST API Framework
+- **Backend**: React.js
 - **Database**: MongoDB
-- **Development Environment**: GitHub Codespaces
-
+- **Development Environment**: vs code with agent mode enabled in GitHub Copilot Chat
 ### Workshop Structure
 
 1. **Introduction**
