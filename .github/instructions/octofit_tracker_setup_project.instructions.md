@@ -43,45 +43,18 @@ octofit-tracker/
 - To create the virtual environment, run the following command:
   
   ```bash
-  python3 -m venv octofit-tracker/backend/venv
+ react
   ```
 
-## OctoFit Tracker Python required packages
+## OctoFit Tracker react required packages
 
 ### Create file octofit-tracker/backend/requirements.txt
 
 - add the following to octofit-tracker/backend/requirements.txt
-- Install the Python packages below only for our OctoFit Tracker project
+- Install the react packages below only for our OctoFit Tracker project
 
 ```text
-Django==4.1.7
-djangorestframework==3.14.0
-django-allauth==0.51.0
-django-cors-headers==4.5.0
-dj-rest-auth==2.2.6
-djongo==1.3.6
-pymongo==3.12
-sqlparse==0.2.4
-stack-data==0.6.3
-sympy==1.12
-tenacity==9.0.0
-terminado==0.18.1
-threadpoolctl==3.5.0
-tinycss2==1.3.0
-tornado==6.4.1
-traitlets==5.14.3
-types-python-dateutil==2.9.0.20240906
-typing_extensions==4.9.0
-tzdata==2024.2
-uri-template==1.3.0
-urllib3==2.2.3
-wcwidth==0.2.13
-webcolors==24.8.0
-webencodings==0.5.1
-websocket-client==1.8.0
-```
 
-## Python virtual environment requirements
 
 Create a requirements.txt with the following Python required packages:
 Install the requirements that we created in requirements.txt.

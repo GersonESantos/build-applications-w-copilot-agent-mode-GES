@@ -1,9 +1,9 @@
 ---
 applyTo: "octofit-tracker/backend/**"
 ---
-# Octofit-tracker Fitness App Django backend Guidelines
+# Octofit-tracker Fitness App react backend Guidelines
 
-## Django Backend App structure
+## react Backend App structure
 
 ### settings.py
 
